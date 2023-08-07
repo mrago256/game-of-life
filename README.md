@@ -1,8 +1,11 @@
 # Conway's Game of Life
 
-Implementation of Conway's Game of Life in C++. Setting initial points is done in main().
+Implementation of Conway's Game of Life in C++ and Java.
 
-It is preloaded with the 4-8-12 diamond seed.
+Both versions are preloaded with the 4-8-12 diamond seed.
+
+Java version is more up to date and includes a command line
+interface for editing the starting seed.
 
 ## License
 
